@@ -28,9 +28,9 @@ The network connects the following departments/blocks within the college:
 ## 📂 Repository Contents
 | File | Description |
 |------|-------------|
-| `Group -11 .pkt.pkt` | Cisco Packet Tracer simulation file containing the complete network topology |
-| `Group- 11 (Report).pdf` | Detailed project report covering design methodology, IP scheme, and configurations |
-| `group 11 (Presentation slides).pdf` | Presentation slides summarizing the project for review |
+| `cisco network project` | Cisco Packet Tracer simulation file containing the complete network topology |
+| `Report.pdf` | Detailed project report covering design methodology, IP scheme, and configurations |
+| `Presentation slides` | Presentation slides summarizing the project for review |
 | `README.md` | Project overview and documentation |
 
 ## 🔑 Key Features
